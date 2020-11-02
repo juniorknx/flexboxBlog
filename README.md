@@ -1,4 +1,4 @@
-# Simples Layout de BLOG utilizando apenas classes flexbox 
+Simples Layout de BLOG utilizando apenas classes flexbox 
 
-https://blogflexbox.netlify.app/
+# https://blogflexbox.netlify.app/
 
