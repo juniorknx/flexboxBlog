@@ -1,2 +1,2 @@
-# Layout de BLOG utilizando apenas classes flexbox 
+# Simples Layout de BLOG utilizando apenas classes flexbox 
 
